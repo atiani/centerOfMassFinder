@@ -1,4 +1,4 @@
-### centerOfMassFinder V2.8  coming soon
+### centerOfMassFinder V2.8  
 this app for educational and gaming purposes for how to know the center of mass for group of solid objects 
 ![centerOfmassFinder(3)](https://user-images.githubusercontent.com/78841476/169544771-67e7a589-f198-47f3-8acc-56c7c024778a.png)
 
