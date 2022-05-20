@@ -1,4 +1,4 @@
-### centerOfMassFinder V2.8  
+### centerOfMassFinder V2.8  download link : [click here](https://play.google.com/store/apps/details?id=air.com.mz.atiani.CenterOfMassFinder)
 this app for educational and gaming purposes for how to know the center of mass for group of solid objects 
 ![centerOfmassFinder(3)](https://user-images.githubusercontent.com/78841476/169544771-67e7a589-f198-47f3-8acc-56c7c024778a.png)
 
@@ -15,6 +15,4 @@ Features:
 *play with time: user need to speed to response exactly when you playing this game with time
 *tags: physics game , simulation , Center Of Mass Finder , Center Of Mass Finder game, mechanics , classical mechanics, physics ,computational physics game
 play with computer
-
-link download : [click here](https://play.google.com/store/apps/details?id=air.com.mz.atiani.CenterOfMassFinder)
 
