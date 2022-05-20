@@ -16,3 +16,5 @@ Features:
 *tags: physics game , simulation , Center Of Mass Finder , Center Of Mass Finder game, mechanics , classical mechanics, physics ,computational physics game
 play with computer
 
+link download : [click here](https://play.google.com/store/apps/details?id=air.com.mz.atiani.CenterOfMassFinder)
+
